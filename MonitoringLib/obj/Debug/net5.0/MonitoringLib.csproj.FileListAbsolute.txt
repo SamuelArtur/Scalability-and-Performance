@@ -1,0 +1,12 @@
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.deps.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/bin/Debug/net5.0/ref/MonitoringLib.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/bin/Debug/net5.0/MonitoringLib.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csproj.AssemblyReference.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.GeneratedMSBuildEditorConfig.editorconfig
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfoInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.AssemblyInfo.cs
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.csproj.CoreCompileInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/ref/MonitoringLib.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/MonitoringLib/obj/Debug/net5.0/MonitoringLib.pdb

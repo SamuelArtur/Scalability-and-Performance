@@ -1,0 +1,16 @@
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.AssemblyReference.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfoInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.AssemblyInfo.cs
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.csproj.CoreCompileInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.deps.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.runtimeconfig.dev.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/bin/Debug/net5.0/WorkingWithTasks.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/ref/WorkingWithTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/WorkingWithTasks/obj/Debug/net5.0/WorkingWithTasks.genruntimeconfig.cache

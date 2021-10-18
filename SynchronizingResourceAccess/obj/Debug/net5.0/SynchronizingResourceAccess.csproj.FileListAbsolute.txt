@@ -1,0 +1,16 @@
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.deps.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.runtimeconfig.dev.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/bin/Debug/net5.0/SynchronizingResourceAccess.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csproj.AssemblyReference.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfoInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.AssemblyInfo.cs
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.csproj.CoreCompileInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/ref/SynchronizingResourceAccess.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/SynchronizingResourceAccess/obj/Debug/net5.0/SynchronizingResourceAccess.genruntimeconfig.cache

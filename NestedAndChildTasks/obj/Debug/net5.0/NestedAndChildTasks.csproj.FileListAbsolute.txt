@@ -1,0 +1,16 @@
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.deps.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.runtimeconfig.dev.json
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/bin/Debug/net5.0/NestedAndChildTasks.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.AssemblyReference.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfoInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.AssemblyInfo.cs
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.csproj.CoreCompileInputs.cache
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/ref/NestedAndChildTasks.dll
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.pdb
+/home/sartur/Documentos/Estudo de C#/Chapter13/NestedAndChildTasks/obj/Debug/net5.0/NestedAndChildTasks.genruntimeconfig.cache
